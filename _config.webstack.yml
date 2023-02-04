@@ -34,9 +34,9 @@ menu:
   - name: 独立站工具
     icon: far fa-star
     config: independentTools
-  - name: podtools
+  - name: pod
     icon: far fa-star
-    config: podtools
+    config: pod
   - name: 常用工具
     icon: far fa-star
     config: hotTools
@@ -115,10 +115,6 @@ outsocial:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/myspace.webp
     description: 社交网络平台
 independentTools:
-  - name: instavideosave
-    url: https://instavideosave.net/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
-    description: 海外社交媒体视频下载
   - name: igram
     url: https://igram.io/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/igram.webp
@@ -133,7 +129,7 @@ independentTools:
     description: woocommerce
   - name: siteground
     url: https://www.siteground.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/siteground.webp
     description: siteground
   - name: themeforest
     url: https://themeforest.net/
@@ -156,18 +152,18 @@ independentTools:
     img: https://www.yunexpress.cn/webPage/images/icon/logo.png
     description: 小包跨境配送
 
-podtools:
+pod:
   - name: teespring
     url: https://teespring.com/shop/funny-men-s-tshirts
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/teespring.webp
     description: teespring
   - name: gearbubble
     url: https://www.gearbubble.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/gearbubble.webp
     description: gearbubble
   - name: teespy
     url: https://teespy.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/teespy.webp
     description: teespy
 
 hotTools:
@@ -299,35 +295,35 @@ otherTools:
     description: 词组重复统计
   - name: 字数统计
     url: https://www.mingmu.net/zishu.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 字数统计
   - name: grammarly
     url: https://www.grammarly.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/grammarly.webp
     description: 语法校验
   - name: amz123
     url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: amz123
   - name: myip
     url: https://myip.ms/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/myip.webp
     description: 全球ip定位查询
   - name: 视频在线解析
     url: https://v.ctrlqq.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 视频在线解析
   - name: bejson
     url: https://www.bejson.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/bejson.webp
     description: bejson
   - name: tinypng
     url: https://tinypng.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/tinypng.webp
     description: tinypng
   - name: word转pdf
     url: http://www.pdfdo.com/doc-to-pdf.aspx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pdf.webp
     description: word转pdf
 
 about:
