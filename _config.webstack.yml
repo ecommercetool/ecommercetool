@@ -137,7 +137,7 @@ independentTools:
     description: themeforest
   - name: builtwith
     url: https://builtwith.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/builtwith.webp
     description: builtwith
   - name: aliyun
     url: https://aliyun.com/
@@ -295,7 +295,7 @@ otherTools:
     description: 词组重复统计
   - name: 字数统计
     url: https://www.mingmu.net/zishu.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
     description: 字数统计
   - name: grammarly
     url: https://www.grammarly.com/
@@ -303,7 +303,7 @@ otherTools:
     description: 语法校验
   - name: amz123
     url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
     description: amz123
   - name: myip
     url: https://myip.ms/
@@ -311,7 +311,7 @@ otherTools:
     description: 全球ip定位查询
   - name: 视频在线解析
     url: https://v.ctrlqq.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
     description: 视频在线解析
   - name: bejson
     url: https://www.bejson.com/
