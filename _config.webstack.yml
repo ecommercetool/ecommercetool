@@ -68,56 +68,56 @@ menu:
 outsocial:
   - name: Instagram
     url: https://www.instagram.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/ins.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/ins.webp
     description: 图片及视频分享平台
   - name: TikTok
     url: https://www.tiktok.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/tiktok.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/tiktok.webp
     description: 海外抖音，短视频分享平台
   - name: Pinterest
     url: https://www.pinterest.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pinterest.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pinterest.webp
     description: 图片分享社交网站
   - name: YouTube
     url: https://www.youtube.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/youtube.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/youtube.webp
     description: 全球最大视频网站
   - name: Facebook
     url: https://www.facebook.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/facebook.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/facebook.webp
     description: 全球最大社交媒体平台
   - name: Twitter
     url: https://twitter.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/twitter.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/twitter.webp
     description: 微博客和社交网络服务平台
   - name: Reddit
     url: https://www.reddit.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/reddit.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/reddit.webp
     description: 娱乐、社交及新闻网站
   - name: Quora
     url: https://www.quora.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/quora.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/quora.webp
     description: 国外版知乎
   - name: Vkontakte
     url: https://vk.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/vk.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/vk.webp
     description: 俄罗斯社交平台
   - name: Snapchat
     url: https://www.snapchat.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/snapchat.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/snapchat.webp
     description: 图片分享软件应用
   - name: LinkedIn
     url: https://www.linkedin.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/linkedin.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/linkedin.webp
     description: 全球最大职业社交网站
   - name: Myspace
     url: https://myspace.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/myspace.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/myspace.webp
     description: 社交网络平台
 independentTools:
   - name: igram
     url: https://igram.io/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/igram.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/igram.webp
     description: instagram图片视频下载
   - name: 全球物流查询平台
     url: https://www.17track.net/
@@ -129,7 +129,7 @@ independentTools:
     description: woocommerce
   - name: siteground
     url: https://www.siteground.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/siteground.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/siteground.webp
     description: siteground
   - name: themeforest
     url: https://themeforest.net/
@@ -169,133 +169,133 @@ pod:
 hotTools:
   - name: Sif关键词
     url: https://www.sif.com/search
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sif.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sif.webp
     description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
   - name: 领星ERP
     url: https://erp.lingxing.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/lx.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/lx.webp
     description: 领星ERP 5000单/月免费用！财务、广告、供应链全功能开放！
   - name: DeepL翻译器
     url: https://www.deepl.com/translator
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/deepl.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/deepl.webp
     description: 比较精准的机器翻译
   - name: JungleScout
     url: https://www.junglescout.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/jscount.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/jscount.webp
     description: 大数据选品/关键词分析/批量邀评/站外促销/跟卖提醒/店铺运营分析
 
 amzWeb:
   - name: 美国站
     url: https://www.amazon.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mg.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mg.webp
     description: 亚马逊美国站
   - name: 英国站
     url: https://www.amazon.co.uk
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/yg.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/yg.webp
     description: 亚马逊英国站
   - name: 德国站
     url: https://www.amazon.de
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/dg.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/dg.webp
     description: 亚马逊德国站
   - name: 法国站
     url: https://www.amazon.fr
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/fg.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/fg.webp
     description: 亚马逊法国站
   - name: 意大利站
     url: https://www.amazon.it
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/ydl.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/ydl.webp
     description: 亚马逊意大利站
   - name: 西班牙站
     url: https://www.amazon.es
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/xby.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/xby.webp
     description: 亚马逊西班牙站
   - name: 加拿大站
     url: https://www.amazon.ca
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/jnd.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/jnd.webp
     description: 亚马逊加拿大站
   - name: 墨西哥站
     url: https://www.amazon.com.mx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mxg.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mxg.webp
     description: 亚马逊墨西哥站
   - name: 日本站
     url: https://www.amazon.co.jp
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/rb.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/rb.webp
     description: 亚马逊日本站
   - name: 美国后台
     url: https://sellercentral.amazon.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 美国卖家后台
   - name: 亚马逊全球开店
     url: https://gs.amazon.cn
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/kd.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/kd.webp
     description: 美国卖家后台
 
 select:
   - name: Google Trend
     url: https://trends.google.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/google.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/google.webp
     description:  查看关键词在Google的搜索次数及变化趋势
 
 keyword:
   - name: Sif关键词
     url: https://www.sif.com/search
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sif.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sif.webp
     description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
   - name: H10
     url: https://h10.com.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/h10.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/h10.webp
     description: 选品 选关键词 做市场调研 用H10就够了（现已支持沃尔玛）
 
 payment:
   - name: PingPong
     url: https://www.pingpongx.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pingpong.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pingpong.webp
     description: 多平台多币种速到账；支持11国VAT，出口退税，虚拟信用卡
   - name: paypal
     url: https://www.paypal.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/pingpong.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pingpong.webp
     description: paypal收款
 
 trademark:
   - name: 美国商标局
     url: https://tmsearch.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mgsb.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mgsb.webp
     description: 美国商标局
   - name: 美国专利局
     url: https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mgzl.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mgzl.webp
     description: 美国专利局
 
 sourceWeb:
   - name: 1688
     url: https://www.1688.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/1688.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/1688.webp
     description: 1688
   - name: 阿里国际
     url: https://www.alibaba.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/algj.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/algj.webp
     description: 阿里国际
   - name: 赛盈分销
     url: https://www.saleyee.cn
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/syfx.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/syfx.webp
     description: 赛盈分销
   - name: 美适分销
     url: https://www.mixsss.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/msfx.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/msfx.webp
     description: 美适分销
   - name: sds定制
     url: https://www.sdsdiy.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/sdsdz.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sdsdz.webp
     description: sds定制
 
 otherTools:
   - name: 词组重复统计
     url: http://www.writewords.org.uk/word_count.asp
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 词组重复统计
   - name: 字数统计
     url: https://www.mingmu.net/zishu.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 字数统计
   - name: grammarly
     url: https://www.grammarly.com/
@@ -303,7 +303,7 @@ otherTools:
     description: 语法校验
   - name: amz123
     url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: amz123
   - name: myip
     url: https://myip.ms/
@@ -311,7 +311,7 @@ otherTools:
     description: 全球ip定位查询
   - name: 视频在线解析
     url: https://v.ctrlqq.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/tool/mght.webp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
     description: 视频在线解析
   - name: bejson
     url: https://www.bejson.com/
