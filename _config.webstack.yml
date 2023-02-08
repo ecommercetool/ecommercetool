@@ -121,11 +121,11 @@ independentTools:
     description: instagram图片视频下载
   - name: 全球物流查询平台
     url: https://www.17track.net/
-    img: https://res.17track.net/global-v2/imgs/logo/svg/full_owt_296x48.svg
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/17track.webp
     description: 全球物流查询平台
   - name: woocommerce
     url: https://woocommerce.com/
-    img: https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/woocommerce.webp
     description: woocommerce
   - name: siteground
     url: https://www.siteground.com/
@@ -133,7 +133,7 @@ independentTools:
     description: siteground
   - name: themeforest
     url: https://themeforest.net/
-    img: https://assets.market-storefront.envato-static.com/storefront/assets/logos/envato-market-a5ace93f8482e885ae008eb481b9451d379599dfed24868e52b6b2d66f5cf633.svg
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/themeforest.webp
     description: themeforest
   - name: builtwith
     url: https://builtwith.com/
@@ -141,15 +141,15 @@ independentTools:
     description: builtwith
   - name: aliyun
     url: https://aliyun.com/
-    img: https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/aliyun.webp
     description: aliyun
   - name: 万网
     url: https://wanwang.aliyun.com/
-    img: https://img.alicdn.com/tfs/TB13DzOjXP7gK0jSZFjXXc5aXXa-212-48.png
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/aliyun.webp
     description: 万网
   - name: 云途物流
     url: https://www.yunexpress.cn/
-    img: https://www.yunexpress.cn/webPage/images/icon/logo.png
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/yunexpress.webp
     description: 小包跨境配送
 
 pod:
