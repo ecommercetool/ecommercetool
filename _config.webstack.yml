@@ -37,12 +37,12 @@ menu:
   - name: pod
     icon: far fa-star
     config: pod
-  - name: 常用工具
-    icon: far fa-star
-    config: hotTools
   - name: 亚马逊站点
     icon: far fa-star
     config: amzWeb
+  - name: 常用工具
+    icon: far fa-star
+    config: hotTools
   - name: 综合软件
     icon: fas fa-tools
     submenu:
@@ -166,24 +166,6 @@ pod:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/teespy.webp
     description: teespy
 
-hotTools:
-  - name: Sif关键词
-    url: https://www.sif.com/search
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sif.webp
-    description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
-  - name: 领星ERP
-    url: https://erp.lingxing.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/lx.webp
-    description: 领星ERP 5000单/月免费用！财务、广告、供应链全功能开放！
-  - name: DeepL翻译器
-    url: https://www.deepl.com/translator
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/deepl.webp
-    description: 比较精准的机器翻译
-  - name: JungleScout
-    url: https://www.junglescout.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/jscount.webp
-    description: 大数据选品/关键词分析/批量邀评/站外促销/跟卖提醒/店铺运营分析
-
 amzWeb:
   - name: 美国站
     url: https://www.amazon.com
@@ -230,11 +212,37 @@ amzWeb:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/kd.webp
     description: 美国卖家后台
 
+hotTools:
+  - name: Sif关键词
+    url: https://www.sif.com/search
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sif.webp
+    description: 查广告架构、运营打法、流量结构，体系化运营关键词流量
+  - name: 领星ERP
+    url: https://erp.lingxing.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/lx.webp
+    description: 领星ERP 5000单/月免费用！财务、广告、供应链全功能开放！
+  - name: DeepL翻译器
+    url: https://www.deepl.com/translator
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/deepl.webp
+    description: 比较精准的机器翻译
+  - name: JungleScout
+    url: https://www.junglescout.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/jscount.webp
+    description: 大数据选品/关键词分析/批量邀评/站外促销/跟卖提醒/店铺运营分析
+  - name: 紫鸟浏览器
+    url: https://www.ziniao.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/ziniao.webp
+    description: 已安全守护222万跨境账号，安全革新VPS
+
 select:
   - name: Google Trend
     url: https://trends.google.com
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/google.webp
     description:  查看关键词在Google的搜索次数及变化趋势
+  - name: JungleScout
+    url: https://www.junglescout.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/jscount.webp
+    description: 大数据选品/关键词分析/批量邀评/站外促销/跟卖提醒/店铺运营分析
 
 keyword:
   - name: Sif关键词
@@ -244,17 +252,40 @@ keyword:
   - name: H10
     url: https://h10.com.cn/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/h10.webp
-    description: 选品 选关键词 做市场调研 用H10就够了（现已支持沃尔玛）
-
+    description: 选品 选关键词 做市场调研
+  - name: 卖家精灵
+    url: https://www.sellersprite.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/sellersprite.webp
+    description: 查竞品出单词/流量词，关键词精准搜索量/购买量
+  - name: 鸥鹭关键词工具
+    url: https://xp2.oalur.com/traffic/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/oalur.webp
+    description: 查竞品出单词/流量词，关键词精准搜索量/购买量
 payment:
+  - name: paypal
+    url: https://www.paypal.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/paypal.webp
+    description: 全球众多用户使用的国际贸易支付工具
   - name: PingPong
     url: https://www.pingpongx.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pingpong.webp
     description: 多平台多币种速到账；支持11国VAT，出口退税，虚拟信用卡
-  - name: paypal
-    url: https://www.paypal.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pingpong.webp
-    description: paypal收款
+  - name: Airwallex空中云汇
+    url: https://www.airwallex.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/airwallex.webp
+    description: 收款0费率，卡支付返现高达5%
+  - name: 网易支付
+    url: https://globalpay.163.com
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/globalpay.webp
+    description: 网易官方出品，亚马逊收款首选，0汇损所见所得
+  - name: Worldfirst万里汇
+    url: https://www.worldfirst.com.cn
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/worldfirst.webp
+    description: 蚂蚁集团旗下，费率0.3%封顶，支持提款至支付宝
+  - name: Worldfirst注册教程
+    url: https://ecommercetool.github.io
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/method.webp
+    description: 蚂蚁集团旗下，费率0.3%封顶，支持提款至支付宝
 
 trademark:
   - name: 美国商标局
@@ -289,6 +320,10 @@ sourceWeb:
     description: sds定制
 
 otherTools:
+  - name: amz123
+    url: https://www.amz123.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
+    description: amz123
   - name: 词组重复统计
     url: http://www.writewords.org.uk/word_count.asp
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
@@ -301,30 +336,10 @@ otherTools:
     url: https://www.grammarly.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/grammarly.webp
     description: 语法校验
-  - name: amz123
-    url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: amz123
   - name: myip
     url: https://myip.ms/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/myip.webp
     description: 全球ip定位查询
-  - name: 视频在线解析
-    url: https://v.ctrlqq.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/mght.webp
-    description: 视频在线解析
-  - name: bejson
-    url: https://www.bejson.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/bejson.webp
-    description: bejson
-  - name: tinypng
-    url: https://tinypng.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/tinypng.webp
-    description: tinypng
-  - name: word转pdf
-    url: http://www.pdfdo.com/doc-to-pdf.aspx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logo/pdf.webp
-    description: word转pdf
 
 about:
   url: /about/
