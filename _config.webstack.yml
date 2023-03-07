@@ -28,15 +28,6 @@ githubCorner: '<a href="https://www.yaoxiaoling.com/" class="github-corner" aria
 
 expandAll: false
 menu:
-  - name: 海外社媒
-    icon: far fa-star
-    config: outsocial
-  - name: 独立站工具
-    icon: far fa-star
-    config: independentTools
-  - name: pod
-    icon: far fa-star
-    config: pod
   - name: 亚马逊站点
     icon: far fa-star
     config: amzWeb
@@ -64,107 +55,15 @@ menu:
   - name: 其他工具
     icon: far fa-star
     config: otherTools
-
-outsocial:
-  - name: Instagram
-    url: https://www.instagram.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/ins.webp
-    description: 图片及视频分享平台
-  - name: TikTok
-    url: https://www.tiktok.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/tiktok.webp
-    description: 海外抖音，短视频分享平台
-  - name: Pinterest
-    url: https://www.pinterest.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pinterest.webp
-    description: 图片分享社交网站
-  - name: YouTube
-    url: https://www.youtube.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/youtube.webp
-    description: 全球最大视频网站
-  - name: Facebook
-    url: https://www.facebook.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/facebook.webp
-    description: 全球最大社交媒体平台
-  - name: Twitter
-    url: https://twitter.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/twitter.webp
-    description: 微博客和社交网络服务平台
-  - name: Reddit
-    url: https://www.reddit.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/reddit.webp
-    description: 娱乐、社交及新闻网站
-  - name: Quora
-    url: https://www.quora.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/quora.webp
-    description: 国外版知乎
-  - name: Vkontakte
-    url: https://vk.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/vk.webp
-    description: 俄罗斯社交平台
-  - name: Snapchat
-    url: https://www.snapchat.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/snapchat.webp
-    description: 图片分享软件应用
-  - name: LinkedIn
-    url: https://www.linkedin.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/linkedin.webp
-    description: 全球最大职业社交网站
-  - name: Myspace
-    url: https://myspace.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myspace.webp
-    description: 社交网络平台
-independentTools:
-  - name: igram
-    url: https://igram.io/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/igram.webp
-    description: instagram图片视频下载
-  - name: 全球物流查询平台
-    url: https://www.17track.net/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/17track.webp
-    description: 全球物流查询平台
-  - name: woocommerce
-    url: https://woocommerce.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/woocommerce.webp
-    description: woocommerce
-  - name: siteground
-    url: https://www.siteground.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/siteground.webp
-    description: siteground
-  - name: themeforest
-    url: https://themeforest.net/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/themeforest.webp
-    description: themeforest
-  - name: builtwith
-    url: https://builtwith.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/builtwith.webp
-    description: builtwith
-  - name: aliyun
-    url: https://aliyun.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/aliyun.webp
-    description: aliyun
-  - name: 万网
-    url: https://wanwang.aliyun.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/aliyun.webp
-    description: 万网
-  - name: 云途物流
-    url: https://www.yunexpress.cn/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/yunexpress.webp
-    description: 小包跨境配送
-
-pod:
-  - name: teespring
-    url: https://teespring.com/shop/funny-men-s-tshirts
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespring.webp
-    description: teespring
-  - name: gearbubble
-    url: https://www.gearbubble.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/gearbubble.webp
-    description: gearbubble
-  - name: teespy
-    url: https://teespy.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespy.webp
-    description: teespy
+  - name: 海外社媒
+    icon: far fa-star
+    config: outsocial
+  - name: 独立站工具
+    icon: far fa-star
+    config: independentTools
+  - name: pod
+    icon: far fa-star
+    config: pod
 
 amzWeb:
   - name: 美国站
@@ -340,6 +239,108 @@ otherTools:
     url: https://myip.ms/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
     description: 全球ip定位查询
+
+outsocial:
+  - name: Instagram
+    url: https://www.instagram.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/ins.webp
+    description: 图片及视频分享平台
+  - name: TikTok
+    url: https://www.tiktok.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/tiktok.webp
+    description: 海外抖音，短视频分享平台
+  - name: Pinterest
+    url: https://www.pinterest.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/pinterest.webp
+    description: 图片分享社交网站
+  - name: YouTube
+    url: https://www.youtube.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/youtube.webp
+    description: 全球最大视频网站
+  - name: Facebook
+    url: https://www.facebook.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/facebook.webp
+    description: 全球最大社交媒体平台
+  - name: Twitter
+    url: https://twitter.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/twitter.webp
+    description: 微博客和社交网络服务平台
+  - name: Reddit
+    url: https://www.reddit.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/reddit.webp
+    description: 娱乐、社交及新闻网站
+  - name: Quora
+    url: https://www.quora.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/quora.webp
+    description: 国外版知乎
+  - name: Vkontakte
+    url: https://vk.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/vk.webp
+    description: 俄罗斯社交平台
+  - name: Snapchat
+    url: https://www.snapchat.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/snapchat.webp
+    description: 图片分享软件应用
+  - name: LinkedIn
+    url: https://www.linkedin.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/linkedin.webp
+    description: 全球最大职业社交网站
+  - name: Myspace
+    url: https://myspace.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myspace.webp
+    description: 社交网络平台
+independentTools:
+  - name: igram
+    url: https://igram.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/igram.webp
+    description: instagram图片视频下载
+  - name: 全球物流查询平台
+    url: https://www.17track.net/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/17track.webp
+    description: 全球物流查询平台
+  - name: woocommerce
+    url: https://woocommerce.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/woocommerce.webp
+    description: woocommerce
+  - name: siteground
+    url: https://www.siteground.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/siteground.webp
+    description: siteground
+  - name: themeforest
+    url: https://themeforest.net/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/themeforest.webp
+    description: themeforest
+  - name: builtwith
+    url: https://builtwith.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/builtwith.webp
+    description: builtwith
+  - name: aliyun
+    url: https://aliyun.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/aliyun.webp
+    description: aliyun
+  - name: 万网
+    url: https://wanwang.aliyun.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/aliyun.webp
+    description: 万网
+  - name: 云途物流
+    url: https://www.yunexpress.cn/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/yunexpress.webp
+    description: 小包跨境配送
+
+pod:
+  - name: teespring
+    url: https://teespring.com/shop/funny-men-s-tshirts
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespring.webp
+    description: teespring
+  - name: gearbubble
+    url: https://www.gearbubble.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/gearbubble.webp
+    description: gearbubble
+  - name: teespy
+    url: https://teespy.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespy.webp
+    description: teespy
+
 
 about:
   url: /about/
