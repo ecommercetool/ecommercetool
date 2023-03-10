@@ -52,9 +52,6 @@ menu:
   - name: 货源网站
     icon: far fa-star
     config: sourceWeb
-  - name: 其他工具
-    icon: far fa-star
-    config: otherTools
   - name: 海外社媒
     icon: far fa-star
     config: outsocial
@@ -132,6 +129,26 @@ hotTools:
     url: https://www.ziniao.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/ziniao.webp
     description: 已安全守护222万跨境账号，安全革新VPS
+  - name: 亚马逊工具箱
+    url: https://www.amz123.com/minitools.htm
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/amztool.webp
+    description: 亚马逊工具箱  
+  - name: 词组重复统计
+    url: http://www.writewords.org.uk/word_count.asp
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
+    description: 词组重复统计
+  - name: 字数统计
+    url: https://www.mingmu.net/zishu.html
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
+    description: 字数统计
+  - name: grammarly
+    url: https://www.grammarly.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/grammarly.webp
+    description: 语法校验
+  - name: myip
+    url: https://myip.ms/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
+    description: 全球ip定位查询
 
 select:
   - name: Google Trend
@@ -217,28 +234,6 @@ sourceWeb:
     url: https://www.sdsdiy.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/sdsdz.webp
     description: sds定制
-
-otherTools:
-  - name: amz123
-    url: https://www.amz123.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
-    description: amz123
-  - name: 词组重复统计
-    url: http://www.writewords.org.uk/word_count.asp
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
-    description: 词组重复统计
-  - name: 字数统计
-    url: https://www.mingmu.net/zishu.html
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
-    description: 字数统计
-  - name: grammarly
-    url: https://www.grammarly.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/grammarly.webp
-    description: 语法校验
-  - name: myip
-    url: https://myip.ms/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
-    description: 全球ip定位查询
 
 outsocial:
   - name: Instagram
