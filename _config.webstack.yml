@@ -149,7 +149,10 @@ hotTools:
     url: https://myip.ms/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
     description: 全球ip定位查询
-
+  - name: 新媒体
+    url: https://themediatool.github.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
+    description: 新媒体工具
 select:
   - name: Google Trend
     url: https://trends.google.com
