@@ -149,6 +149,10 @@ hotTools:
     url: https://myip.ms/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
     description: 全球ip定位查询
+  - name: linkfoxAI
+    url: https://ai.linkfox.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
+    description: 利用AI处理跨境电商的各种问题    
   - name: 新媒体
     url: https://themediatool.github.io/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
