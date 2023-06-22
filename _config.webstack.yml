@@ -28,13 +28,10 @@ githubCorner: '<a href="https://www.yaoxiaoling.com/" class="github-corner" aria
 
 expandAll: false
 menu:
-  - name: 亚马逊站点
-    icon: far fa-star
-    config: amzWeb
   - name: 常用工具
     icon: far fa-star
     config: hotTools
-  - name: 综合软件
+  - name: 亚马逊综合软件
     icon: fas fa-tools
     submenu:
       - name: 选品分析
@@ -49,64 +46,21 @@ menu:
       - name: 商标专利
         icon: fas fa-blog
         config: trademark
-  - name: 货源网站
-    icon: far fa-star
-    config: sourceWeb
-  - name: 海外社媒
-    icon: far fa-star
-    config: outsocial
-  - name: 独立站工具
-    icon: far fa-star
-    config: independentTools
-  - name: pod
-    icon: far fa-star
-    config: pod
-
-amzWeb:
-  - name: 美国站
-    url: https://www.amazon.com
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mg.webp
-    description: 亚马逊美国站
-  - name: 英国站
-    url: https://www.amazon.co.uk
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/yg.webp
-    description: 亚马逊英国站
-  - name: 德国站
-    url: https://www.amazon.de
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/dg.webp
-    description: 亚马逊德国站
-  - name: 法国站
-    url: https://www.amazon.fr
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/fg.webp
-    description: 亚马逊法国站
-  - name: 意大利站
-    url: https://www.amazon.it
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/ydl.webp
-    description: 亚马逊意大利站
-  - name: 西班牙站
-    url: https://www.amazon.es
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/xby.webp
-    description: 亚马逊西班牙站
-  - name: 加拿大站
-    url: https://www.amazon.ca
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/jnd.webp
-    description: 亚马逊加拿大站
-  - name: 墨西哥站
-    url: https://www.amazon.com.mx
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mxg.webp
-    description: 亚马逊墨西哥站
-  - name: 日本站
-    url: https://www.amazon.co.jp
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/rb.webp
-    description: 亚马逊日本站
-  - name: 美国后台
-    url: https://sellercentral.amazon.com/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/mght.webp
-    description: 美国卖家后台
-  - name: 亚马逊全球开店
-    url: https://gs.amazon.cn
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/kd.webp
-    description: 美国卖家后台
+      - name: 货源网站
+        icon: far fa-star
+        config: sourceWeb
+  - name: 社媒综合软件
+    icon: fas fa-tools
+    submenu: 
+      - name: 海外社媒
+        icon: far fa-star
+        config: outsocial
+      - name: 独立站工具
+        icon: far fa-star
+        config: independentTools
+      - name: pod
+        icon: far fa-star
+        config: pod
 
 hotTools:
   - name: Sif关键词
