@@ -63,6 +63,10 @@ menu:
         config: recommendweb
 
 hotTools:
+  - name: 新媒体
+    url: https://themediatool.github.io/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/themediatool.webp
+    description: 新媒体工具
   - name: Sif关键词
     url: https://www.sif.com/search
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/sif.webp
@@ -106,11 +110,7 @@ hotTools:
   - name: linkfoxAI
     url: https://ai.linkfox.com/
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
-    description: 利用AI处理跨境电商的各种问题    
-  - name: 新媒体
-    url: https://themediatool.github.io/
-    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/myip.webp
-    description: 新媒体工具
+    description: 利用AI处理跨境电商的各种问题
 select:
   - name: Google Trend
     url: https://trends.google.com
