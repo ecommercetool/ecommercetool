@@ -58,6 +58,9 @@ menu:
       - name: pod
         icon: far fa-star
         config: pod
+      - name: 推荐网站
+        icon: far fa-star
+        config: recommendweb
 
 hotTools:
   - name: Sif关键词
@@ -241,6 +244,19 @@ pod:
     img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespy.webp
     description: teespy
 
+recommendweb:
+  - name: 顾小北
+    url: https://guxiaobei.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespring.webp
+    description: 顾小北
+  - name: 小马哥
+    url: https://xmgseo.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespring.webp
+    description: 小马哥
+  - name: nanxitalk
+    url: https://nanxitalk.com/
+    img: https://cdn.staticaly.com/gh/damnieel/pic_bed@main/logos/teespring.webp
+    description: 南溪
 
 about:
   url: /about/
